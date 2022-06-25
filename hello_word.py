@@ -1,3 +1,5 @@
+print("Hello world")
+
 def _multiplicacion(a,b):
  return a*b
 
