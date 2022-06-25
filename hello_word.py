@@ -17,3 +17,9 @@ def _sumArray(arr):
 
 print(_sumArray([1, 1]))
 
+def division(numerador, divisor):
+    if (divisor != 0):
+        return numerador/divisor
+    else :
+        return 0
+        
