@@ -3,6 +3,5 @@ from unittest import result
 
 print("Hello World")
 
-def multiplicacion(a,b):
-    result = a*b
-    return result
+def _multiplicacion(a,b):
+ return a*b
