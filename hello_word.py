@@ -1,9 +1,12 @@
+print("Hello world")
+
 
 import random
 def _randomMult(a):
   b =  random.randint(5, 15)
   multi = a * b
   return multi
+
 
 def _multiplicacion(a,b):
  return a*b
