@@ -5,5 +5,3 @@ def _sumArray(arr):
     for i in arr:
         sum= sum + i
     return sum
-
-print(_sumArray([1, 1]))
