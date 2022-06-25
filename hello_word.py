@@ -1,7 +1,7 @@
 print("Hello World")
 
 
-def resta(x,y):
+def _resta(x,y):
 	return x-y
 
 
