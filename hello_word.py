@@ -16,5 +16,3 @@ def _sumArray(arr):
         sum= sum + i
     return sum
 
-print(_sumArray([1, 1]))
-
