@@ -1,4 +1,5 @@
-print("Hello World")
+def _multiplicacion(a,b):
+ return a*b
 
 
 
@@ -16,5 +17,4 @@ def _sumArray(arr):
     return sum
 
 print(_sumArray([1, 1]))
-
 
