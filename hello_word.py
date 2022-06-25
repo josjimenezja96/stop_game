@@ -1,5 +1,10 @@
 print("Hello World")
 
+
+def _resta(x,y):
+	return x-y
+
+
 def _sumArray(arr):
     sum=0
     for i in arr:
@@ -7,3 +12,4 @@ def _sumArray(arr):
     return sum
 
 print(_sumArray([1, 1]))
+
