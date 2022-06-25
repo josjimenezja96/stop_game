@@ -1,5 +1,13 @@
+
+import random
+def _randomMult(a):
+  b =  random.randint(5, 15)
+  multi = a * b
+  return multi
+
 def _multiplicacion(a,b):
  return a*b
+
 
 
 
@@ -17,4 +25,11 @@ def _sumArray(arr):
     return sum
 
 print(_sumArray([1, 1]))
+
+
+def division(numerador, divisor):
+    if (divisor != 0):
+        return numerador/divisor
+    else :
+        return 0
 
